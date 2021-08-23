@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/saimon-flightlocal/static/js/main.4c8dccb7.chunk.js",
-    "main.js.map": "/saimon-flightlocal/static/js/main.4c8dccb7.chunk.js.map",
+    "main.js": "/saimon-flightlocal/static/js/main.5d5556eb.chunk.js",
+    "main.js.map": "/saimon-flightlocal/static/js/main.5d5556eb.chunk.js.map",
     "runtime-main.js": "/saimon-flightlocal/static/js/runtime-main.06ee89e8.js",
     "runtime-main.js.map": "/saimon-flightlocal/static/js/runtime-main.06ee89e8.js.map",
     "static/js/2.15054f85.chunk.js": "/saimon-flightlocal/static/js/2.15054f85.chunk.js",
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.06ee89e8.js",
     "static/js/2.15054f85.chunk.js",
-    "static/js/main.4c8dccb7.chunk.js"
+    "static/js/main.5d5556eb.chunk.js"
   ]
 }
