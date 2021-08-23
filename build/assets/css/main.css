@@ -1,0 +1,185 @@
+/*End Mixins*/
+.loader {
+  height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, span, p, li {
+  font-family: "Poppins", sans-serif;
+}
+
+.app {
+  max-width: 549px;
+  margin: 10px auto;
+  border: 1px solid #ddd;
+}
+
+.header {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  -ms-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  -o-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.header .container-fluid {
+  padding: 0 17px;
+}
+
+.header .navbar-brand {
+  color: #00276c;
+  font-family: "Poppins", sans-serif;
+  font-size: 22px;
+}
+
+.header .navbar-brand span {
+  font-weight: 700;
+}
+
+main {
+  padding: 0 17px;
+}
+
+main .totalpackage {
+  font-size: 22px;
+  line-height: 9px;
+  margin: 26px 0;
+  color: #00276c;
+  font-weight: 700;
+}
+
+main .packagelist {
+  box-shadow: 0 5px 10px 2px rgba(0, 0, 0, 0.49);
+  -webkit-box-shadow: 0 5px 10px 2px rgba(0, 0, 0, 0.49);
+  -moz-box-shadow: 0 5px 10px 2px rgba(0, 0, 0, 0.49);
+  -ms-box-shadow: 0 5px 10px 2px rgba(0, 0, 0, 0.49);
+  -o-box-shadow: 0 5px 10px 2px rgba(0, 0, 0, 0.49);
+  margin-bottom: 15px;
+  border: 0;
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+}
+
+main .card-body {
+  padding: 0;
+}
+
+main .card-body .img-block {
+  width: 40%;
+  background-size: cover;
+  background-position: center center;
+  border-top-left-radius: 7px;
+}
+
+main .card-body .img-block h2 {
+  color: #00276c;
+  background-color: #ffc610;
+  font-size: 15px;
+  line-height: 28px;
+  display: inline-block;
+  padding: 5px 12px;
+  border-bottom-right-radius: 7px;
+  border-top-left-radius: 7px;
+  font-weight: 600;
+}
+
+main .card-body .img-block h2 span {
+  padding-right: 5px;
+}
+
+main .card-body .content-block {
+  max-width: 60%;
+  padding: 15px;
+}
+
+main .card-body .content-block h2 {
+  font-size: 22px;
+  font-weight: 700;
+  color: #00276c;
+}
+
+main .card-body .content-block .card-text {
+  text-align: justify;
+  color: #222;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+main .card-body .content-block ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+main .card-body .content-block ul li {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #00276c;
+  font-weight: 600;
+}
+
+main .card-body .content-block ul li span {
+  padding-right: 10px;
+}
+
+main .card-body .content-block ul li span img {
+  height: 13px;
+}
+
+main .card-footer-bottom {
+  background-color: #00276c;
+  padding: 10px 15px 5px;
+  color: #fff;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+
+main .card-footer-bottom .card-footer-left h5 {
+  font-size: 13px;
+  margin-bottom: 0;
+  color: #ffc610;
+  font-weight: 400;
+}
+
+main .card-footer-bottom .card-footer-left img {
+  -webkit-filter: invert(100%);
+  -ms-filter: invert(100%);
+  filter: invert(100%);
+}
+
+main .card-footer-bottom .card-footer-left ul {
+  margin: 0;
+}
+
+main .card-footer-bottom .card-footer-left ul li {
+  padding: 5px 4px;
+}
+
+main .card-footer-bottom .card-footer-left ul li:first-child {
+  padding-left: 0;
+}
+
+main .card-footer-bottom .card-footer-right {
+  color: #fff;
+}
+
+main .card-footer-bottom .card-footer-right h5 {
+  font-size: 13px;
+  margin-bottom: 0;
+  font-weight: 400;
+}
+
+main .card-footer-bottom .card-footer-right span {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 35px;
+}
+
+.pagination li a:focus {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+/*# sourceMappingURL=main.css.map */
